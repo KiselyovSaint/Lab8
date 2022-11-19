@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tvInfo">Информация</string>
+    <string name="tvName">Имя</string>
+    <string name="tvPassword">Пароль</string>
+    <string name="tvAge">Лет</string>
+    <string name="btnSelect">Изменить</string>
+    <color name="fon">#A2C37F</color>
+    <color name="ColorText">#000000</color>
+    <color name="ColorButton">#7EBCDA</color>
+</resources>
